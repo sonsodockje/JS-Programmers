@@ -1,2 +1,3 @@
 # JS-Programmers
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+
+백준 허브를 통한 자동 푸쉬가 이루어지는 저장소입니다. 
